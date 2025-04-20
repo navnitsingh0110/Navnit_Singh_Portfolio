@@ -6,28 +6,28 @@ import { fadeIn } from "../../framerMotion/variants";
 const projects = [
   {
     name: "Meditation Application",
-    year: "Feb2025",
+    year: "Feb 2025",
     align: "right",
     image: "/images/MedApp.png",
     link: "https://meditation-application-bay.vercel.app/",
   },
   {
     name: "Pokemon Cards",
-    year: "Jan2025",
+    year: "Jan 2025",
     align: "left",
     image: "/images/PokCards.png",
     link: "https://pokemon-cards-rose.vercel.app/",
   },
   {
     name: "Chat App",
-    year: "Mar2025",
+    year: "Mar 2025",
     align: "right",
     image: "/images/ChatApp.png",
     link: "https://chat-app-indol-two-74.vercel.app/",
   },
   {
     name: "Memory Game",
-    year: "Feb2025",
+    year: "Feb 2025",
     align: "left",
     image: "/images/MemoryGame.png",
     link: "https://match-pair-navy.vercel.app/",
