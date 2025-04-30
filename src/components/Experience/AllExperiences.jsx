@@ -7,7 +7,7 @@ const experiences = [
   {
     job: "Customer Service Executive",
     company: "SoftWebWork Pvt. Ltd.",
-    date: "2020 - 2022",
+    date: "Sep 2020 - Mar 2022",
     responsibilities: [
       "Handled calls, emails, and live chats for customer support.",
       "Delivered excellent service by addressing customer concerns.",
@@ -18,7 +18,7 @@ const experiences = [
   {
     job: "IT Support Specialist",
     company: "SoftWebWork Pvt. Ltd.",
-    date: "2022 - Present",
+    date: "Apr 2022 - July 2024",
     responsibilities: [
       "Delivered IT support to minimize downtime and enhance UX.",
       "Improved site performance by fixing bugs, UI issues, and responsiveness.",
